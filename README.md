@@ -1,5 +1,1 @@
-# abc
-# first
-# Eyantra_Final
-# Pick_And_Place_Robot
-# Pick_And_Place_Robot
+E yantra:- this is code for the microcontroller (atmega 2560) based robot that can travel in the assigned arena in the shortest path and pick the object and place it in the assigned place and will avoid the path that contains obstacle. Hardware microcontroller atmega 2560, Colour sensor, IR sensor, DC motor, motor driver, lipo, proximity sensor, RGB led, burner stk 500 and different Testing equipment. Programming Language c++ Integrated development platform -Atmel studio.
